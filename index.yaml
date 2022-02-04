@@ -20,5 +20,5 @@ entries:
     name: fujitsu-enterprise-postgres-for-kubernetes
     type: application
     urls:
-    - https://github.com/dishantmehta03/fastheml/fujitsu-enterprise-postgres-for-kubernetes-1.0.0.tgz
+     - fujitsu-enterprise-postgres-for-kubernetes-1.0.0.tgz
     version: 1.0.0
