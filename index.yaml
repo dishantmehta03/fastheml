@@ -12,7 +12,7 @@ entries:
     - sql
     - Fujitsu
     - fep
-    kubeVersion: 1.19-1.22
+    kubeVersion: v1.21.7+rke2r2
     maintainers:
     - email: pgtechenquiry@au.fujitsu.com
       name: Fujitsu
