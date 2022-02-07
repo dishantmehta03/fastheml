@@ -20,5 +20,5 @@ entries:
     name: fujitsu-enterprise-postgres-for-kubernetes
     type: application
     urls:
-     - fujitsu-enterprise-postgres-for-kubernetes-1.0.0.tgz
+     - fujitsu-fep-1.0.0.tgz
     version: 1.0.0
